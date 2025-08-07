@@ -71,7 +71,6 @@ export const ContactForm = () => {
                         name="phone"
                         label="מספר טלפון"
                         placeholder="הכנס/י מספר טלפון"
-                        type="tel"
                     />
 
                     <InputField
