@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2bba540b-fa35-44f5-8727-aea1339800b4" name="Changes" comment="fix(home) fix hydration error on theme provider">
+      <change afterPath="$PROJECT_DIR$/postcss.index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/homepage/common/quoteModal.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/homepage/sections/enhancedHeroSection.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/next.index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/next.index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/postcss.index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tailwind.index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/tailwind.index.ts" afterDir="false" />
+    </list>
+    <list id="b1a5ed04-9999-4c04-b708-358122bd900a" name="temp" comment="feat(home) add theme toggle">
+      <change beforePath="$PROJECT_DIR$/src/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/page.tsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="feature/ui" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="feature/mainPage" />
+                    <option name="lastUsedInstant" value="1754320471" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="feature/ui" />
+                    <option name="lastUsedInstant" value="1754317718" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1754314737" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="LineStatusTrackerManager">
+    <file path="$PROJECT_DIR$/src/app/page.tsx">
+      <ranges>
+        <range start1="0" end1="0" start2="0" end2="1" changelist="2bba540b-fa35-44f5-8727-aea1339800b4" />
+        <range start1="2" end1="2" start2="3" end2="4" changelist="2bba540b-fa35-44f5-8727-aea1339800b4" />
+        <range start1="3" end1="11" start2="5" end2="5" changelist="b1a5ed04-9999-4c04-b708-358122bd900a" />
+        <range start1="12" end1="21" start2="6" end2="17" changelist="2bba540b-fa35-44f5-8727-aea1339800b4" />
+      </ranges>
+    </file>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="30pB7UlGU7D8UZ46AYSyQJXd3YH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "git-widget-placeholder": "feature/mainPage",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/Users/66bar/WebstormProjects/corporate-website-t/src/components/homepage/ui",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "npm.dev.executor": "Run",
+    "settings.editor.selected.configurable": "project.propVCSSupport.Confirmation",
+    "to.speed.mode.migration.done": "true",
+    "ts.external.directory.path": "C:\\Users\\66bar\\WebstormProjects\\corporate-website-t\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="ReactDesignerToolWindowState">
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.intellij.reactbuddy.reactComponents" value="false" />
+        <entry key="com.intellij.reactbuddy.reactInspector" value="false" />
+        <entry key="com.intellij.reactbuddy.storybook" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\66bar\WebstormProjects\corporate-website-t\src\components\homepage\ui" />
+      <recent name="C:\Users\66bar\WebstormProjects\corporate-website-t\src\components\homepage\sections" />
+      <recent name="C:\Users\66bar\WebstormProjects\corporate-website-t\src\components\theme" />
+      <recent name="C:\Users\66bar\WebstormProjects\corporate-website-t\src\components" />
+      <recent name="C:\Users\66bar\WebstormProjects\corporate-website-t\public\placeholder" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\66bar\WebstormProjects\corporate-website-t\public\SEO" />
+      <recent name="C:\Users\66bar\WebstormProjects\corporate-website-t\.idea" />
+      <recent name="C:\Users\66bar\WebstormProjects\corporate-website-t\src\styles" />
+      <recent name="C:\Users\66bar\WebstormProjects\corporate-website-t\public" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.dev" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-WS-251.27812.50" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2bba540b-fa35-44f5-8727-aea1339800b4" name="Changes" comment="" />
+      <changelist id="b1a5ed04-9999-4c04-b708-358122bd900a" name="temp" comment="" />
+      <created>1754314467069</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1754314467069</updated>
+      <workItem from="1754314468214" duration="9637000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit from Create Next App">
+      <option name="closed" value="true" />
+      <created>1754314864701</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1754314864701</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial commit from Create Next App">
+      <option name="closed" value="true" />
+      <created>1754314979074</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1754314979074</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Initial commit from Create Next App">
+      <option name="closed" value="true" />
+      <created>1754315108342</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1754315108342</updated>
+    </task>
+    <task id="LOCAL-00004" summary="rfc(initial) move global.css to ./styles">
+      <option name="closed" value="true" />
+      <created>1754315483840</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1754315483840</updated>
+    </task>
+    <task id="LOCAL-00005" summary="rfc(initial) clean page.tsx">
+      <option name="closed" value="true" />
+      <created>1754315501703</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1754315501703</updated>
+    </task>
+    <task id="LOCAL-00006" summary="rfc(initial) replace initial public files with favicon files">
+      <option name="closed" value="true" />
+      <created>1754315534544</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1754315534544</updated>
+    </task>
+    <task id="LOCAL-00007" summary="rfc(initial) replace initial public files with favicon files">
+      <option name="closed" value="true" />
+      <created>1754315551962</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1754315551962</updated>
+    </task>
+    <task id="LOCAL-00008" summary="rfc(initial) add tailwind.index.ts">
+      <option name="closed" value="true" />
+      <created>1754315962518</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1754315962518</updated>
+    </task>
+    <task id="LOCAL-00009" summary="rfc(initial) add placeholder images">
+      <option name="closed" value="true" />
+      <created>1754316377900</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1754316377900</updated>
+    </task>
+    <task id="LOCAL-00010" summary="rfc(style) add custom classnames">
+      <option name="closed" value="true" />
+      <created>1754316397159</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1754316397159</updated>
+    </task>
+    <task id="LOCAL-00011" summary="rfc(style) add metadata to layout.tsx">
+      <option name="closed" value="true" />
+      <created>1754317422240</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1754317422240</updated>
+    </task>
+    <task id="LOCAL-00012" summary="feat(style) add theme provider">
+      <option name="closed" value="true" />
+      <created>1754317740716</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1754317740716</updated>
+    </task>
+    <task id="LOCAL-00013" summary="feat(style) add theme provider">
+      <option name="closed" value="true" />
+      <created>1754317864969</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1754317864969</updated>
+    </task>
+    <task id="LOCAL-00014" summary="feat(style) add theme toggle">
+      <option name="closed" value="true" />
+      <created>1754320322221</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1754320322221</updated>
+    </task>
+    <task id="LOCAL-00015" summary="feat(style) add theme toggle">
+      <option name="closed" value="true" />
+      <created>1754320370939</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1754320370939</updated>
+    </task>
+    <task id="LOCAL-00016" summary="feat(style) add example data">
+      <option name="closed" value="true" />
+      <created>1754320441095</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1754320441095</updated>
+    </task>
+    <task id="LOCAL-00017" summary="fix(home) fix hydration error on theme provider">
+      <option name="closed" value="true" />
+      <created>1754322337434</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1754322337434</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="feature/mainPage" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit from Create Next App" />
+    <MESSAGE value="rfc(initial) move global.css to ./styles" />
+    <MESSAGE value="rfc(initial) clean page.tsx" />
+    <MESSAGE value="rfc(initial) replace initial public files with favicon files" />
+    <MESSAGE value="rfc(initial) add tailwind.index.ts" />
+    <MESSAGE value="rfc(initial) add placeholder images" />
+    <MESSAGE value="rfc(style) add custom classnames" />
+    <MESSAGE value="rfc(layout) add metadata to layout.tsx" />
+    <MESSAGE value="feat(home) add theme provider" />
+    <MESSAGE value="temp" />
+    <MESSAGE value="feat(home) add theme toggle" />
+    <MESSAGE value="feat(home) add example data" />
+    <MESSAGE value="fix(home) fix hydration error on theme provider" />
+    <MESSAGE value="feat(home) add example data" />
+    <MESSAGE value="feat(home) add theme toggle" />
+    <MESSAGE value="feat(home) add theme provider" />
+    <MESSAGE value="rfc(layout) add metadata to layout.tsx" />
+    <option name="LAST_COMMIT_MESSAGE" value="rfc(layout) add metadata to layout.tsx" />
+  </component>
+</project>
