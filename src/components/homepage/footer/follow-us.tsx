@@ -16,7 +16,7 @@ const FollowUs = ({}) => {
                     <Link
                         key={i}
                         href={link.url}
-                        className="text-gray-300 hover:text-white transition-all duration-400 transform hover:scale-105 hover:-translate-y-0.5"
+                        className="text-gray-300 hover:text-white transition-all duration-400 transform hover:scale-105 hover:-translate-y-0.5 rtl:mr-2"
                     >
                         <Image
                             src={`/logos/${link.platform.toLowerCase()}.svg`}
