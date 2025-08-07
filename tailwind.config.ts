@@ -76,9 +76,14 @@ const config: Config = {
                 'dark-border': '#475569'
                 /* endregion */
             }
+        },
+        variants: {
+            extend: {
+                space: ['rtl']
+            }
         }
     },
-    plugins: [],
+    plugins: []
 }
 
 export default config
